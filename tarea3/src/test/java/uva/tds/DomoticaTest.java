@@ -2,8 +2,6 @@ package uva.tds;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-import org.easymock.Mock;
-import org.easymock.TestSubject;
 import org.junit.jupiter.api.Test;
 
 /**
@@ -11,16 +9,10 @@ import org.junit.jupiter.api.Test;
  * @author Fernando Carmona Palacio
  */
 
-public class DomoticaTest {
-
-    @TestSubject
-    private Domotica dom;
-
-    @Mock
-    private DomoticaService ser;
+public class DomoticaTest {    
 
     @Test
     void testDomoticaConstructorValido(){
-    
+        
     }
 }
