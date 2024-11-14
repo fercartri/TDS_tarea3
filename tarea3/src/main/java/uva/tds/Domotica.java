@@ -3,8 +3,7 @@ package uva.tds;
 /**
  * Aplicación que permite controlar el encendido y apagado de las luces de una
  * casa utilizando un servicio externo para realizar las operaciones. Por
- * defecto,
- * las luces están apagadas.
+ * defecto, las luces están apagadas.
  * 
  * @author marcorr
  *
